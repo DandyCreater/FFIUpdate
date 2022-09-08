@@ -6,7 +6,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:native_add/native_add.dart';
+import 'package:native_add/natives_add.dart';
 
 class TestingFFI extends StatefulWidget {
   final int firstnum;
