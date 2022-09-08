@@ -1,0 +1,7 @@
+Executable : C:\Users\1433\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Learning\LearnFFI\flutter_application_1\native_add\android\.cxx\cmake\debug\arm64-v8a
+native_add
+jvmArgs : 
+

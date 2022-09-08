@@ -1,0 +1,3 @@
+D:/Learning/LearnFFI/flutter_application_1/native_add/android/.cxx/cmake/debug/x86/CMakeFiles/native_add.dir
+D:/Learning/LearnFFI/flutter_application_1/native_add/android/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/Learning/LearnFFI/flutter_application_1/native_add/android/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

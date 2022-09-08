@@ -1,0 +1,5 @@
+# ninja log v5
+1	101	674977950	CMakeFiles/native_add.dir/D_/Learning/LearnFFI/flutter_application_1/native_add/ios/Classes/native_add.cpp.o	de4d03a431ae2c34
+101	209	674977950	D:/Learning/LearnFFI/flutter_application_1/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so	6264aaae64145366
+3	122	684217956	CMakeFiles/native_add.dir/D_/Learning/LearnFFI/flutter_application_1/native_add/ios/Classes/native_add.cpp.o	de4d03a431ae2c34
+122	271	684217956	D:/Learning/LearnFFI/flutter_application_1/native_add/example/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so	6264aaae64145366

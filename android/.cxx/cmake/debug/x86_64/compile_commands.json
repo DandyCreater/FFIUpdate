@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Learning/LearnFFI/flutter_application_1/native_add/android/.cxx/cmake/debug/x86_64",
+  "command": "C:\\Users\\1433\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/1433/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/1433/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_add_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native_add.dir\\D_\\Learning\\LearnFFI\\flutter_application_1\\native_add\\ios\\Classes\\native_add.cpp.o -c D:\\Learning\\LearnFFI\\flutter_application_1\\native_add\\ios\\Classes\\native_add.cpp",
+  "file": "D:\\Learning\\LearnFFI\\flutter_application_1\\native_add\\ios\\Classes\\native_add.cpp"
+}
+]
